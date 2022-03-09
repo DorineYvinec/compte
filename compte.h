@@ -1,6 +1,7 @@
 #ifndef compte_h
 #define compte_h
 
+//la classe compte
 class compte {
 private:
     bool ib;
